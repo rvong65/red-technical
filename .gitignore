@@ -1,0 +1,6 @@
+.env 
+
+# database
+db.sqlite3
+
+/red-technical
